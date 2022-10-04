@@ -132,5 +132,6 @@ Pause View
 ### [BONUS] Interactive Prototype
 Bones of the app Gif
 https://github.com/Hackaletes/Code-Masher/blob/master/Code%20Masher.gif
+
 Build Progress Gif
 https://github.com/Hackaletes/Code-Masher/blob/master/Build%20Progress.gif
