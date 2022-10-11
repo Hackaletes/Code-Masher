@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/background">
+
+    <TextView
+        android:id="@+id/playerDataDescription"
+        android:layout_width="381dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:textColor="@color/white"
+        android:text="Your data can be stored in side the game after hitting the save button. This button is located in the settings."
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/playerData" />
+
+    <TextView
+        android:id="@+id/playerData"
+        android:layout_width="155dp"
+        android:layout_height="33dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="Player Data"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/upgradesDescription" />
+
+    <TextView
+        android:id="@+id/upgradesDescription"
+        android:layout_width="386dp"
+        android:layout_height="104dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:textColor="@color/white"
+        android:text="Upgrades can be purchased throughout the users play through as they gain gold from the enemies defeated. The user can upgrade the amount of damage they do to an enemy and buy companions with gold. The upgrade button is located on the main menu screen as well as game view screen. "
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/upgrades" />
+
+    <TextView
+        android:id="@+id/upgrades"
+        android:layout_width="155dp"
+        android:layout_height="33dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="28dp"
+        android:text="Upgrades"
+        android:textSize="25sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView8" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="381dp"
+        android:layout_height="105dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:textColor="@color/white"
+        android:text="There are three ways for users to attack in this game. The first way is using the attack button on the bottom right of the main game screen. The second way is swiping across the enemy on screen which does a little more damage than the tap. The third way is using a companion that repeatedly attacks the enemy. "
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fighting" />
+
+    <TextView
+        android:id="@+id/fighting"
+        android:layout_width="155dp"
+        android:layout_height="33dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="28dp"
+        android:text="Fighting"
+        android:textSize="25sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/gameDescription" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="97dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="20dp"
+        android:textColor="@color/white"
+        android:backgroundTint="@android:color/black"
+        android:text="Back"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/descriptionTv"
+        android:layout_width="155dp"
+        android:layout_height="33dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="Description"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/gameDescription"
+        android:layout_width="387dp"
+        android:layout_height="121dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="Our game is an idle clicker fighting game where the user fights through different levels of enemies. As the levels increase, so does the health of the boss taking the user more taps to beat them. Additionally, as the user beats levels, they gain gold which is the currency used to purchase companions to help the player do more damage and to upgrade the overall damage the players tap does."
+        android:textColor="@color/white"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/descriptionTv" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
