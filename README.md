@@ -135,3 +135,6 @@ Bones of the app Gif
 
 Build Progress Gif
 <img src="Build Progress.gif" width=600>
+
+Build Progess Gif - Help View
+![HelpPage](https://user-images.githubusercontent.com/107942820/194998026-d64be885-ab33-45b4-a464-731ba0256539.gif)
