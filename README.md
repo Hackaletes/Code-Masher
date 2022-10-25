@@ -134,7 +134,7 @@ Bones of the app Gif
 <img src="Bones.gif" width=400>
 
 Build Progress Gif
-<img src="Build Progress.gif" width=400>
+<img src="Build Progress.gif" width=600>
 
 Build Progess Gif - Help View
 <img src="HelpPage.gif" width=400>
