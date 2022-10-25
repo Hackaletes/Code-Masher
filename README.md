@@ -125,7 +125,7 @@ Pause View
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="https://github.com/Hackaletes/Milestone1/blob/main/WireFrame.jpg" width=600>
+<img src=Resized_Resized_20220926_234400.jpeg width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
