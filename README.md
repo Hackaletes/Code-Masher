@@ -125,20 +125,20 @@ Pause View
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src=Resized_Resized_20220926_234400.jpeg width=600>
+<img src=Resized_Resized_20220926_234400.jpeg width=400>
 
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
 Bones of the app Gif
-<img src="Bones.gif" width=600>
+<img src="Bones.gif" width=400>
 
 Build Progress Gif
-<img src="Build Progress.gif" width=600>
+<img src="Build Progress.gif" width=400>
 
 Build Progess Gif - Help View
-<img src="HelpPage.gif" width=600>
+<img src="HelpPage.gif" width=400>
 
 Build Progress Gif - Game View
-<img src="Gameview.gif" width=600>
+<img src="Gameview.gif" width=400>
 
