@@ -131,10 +131,13 @@ Pause View
 
 ### [BONUS] Interactive Prototype
 Bones of the app Gif
-<img src=".gif" width=600>
+<img src="Bones.gif" width=600>
 
 Build Progress Gif
 <img src="Build Progress.gif" width=600>
 
 Build Progess Gif - Help View
 ![HelpPage](https://user-images.githubusercontent.com/107942820/194998026-d64be885-ab33-45b4-a464-731ba0256539.gif)
+
+Build Progress Gif - Game View
+
