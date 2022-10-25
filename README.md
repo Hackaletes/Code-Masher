@@ -137,8 +137,8 @@ Build Progress Gif
 <img src="Build Progress.gif" width=600>
 
 Build Progess Gif - Help View
-![HelpPage](https://user-images.githubusercontent.com/107942820/194998026-d64be885-ab33-45b4-a464-731ba0256539.gif)
+<img src="HelpPage.gif" width=600>
 
 Build Progress Gif - Game View
-![Gameview](https://user-images.githubusercontent.com/107942820/197683481-d2b0b0b7-b146-4b15-bb16-97b4ff6a9232.gif)
+<img src="Gameview.gif" width=600>
 
