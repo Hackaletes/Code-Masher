@@ -142,3 +142,6 @@ Build Progess Gif - Help View
 Build Progress Gif - Game View
 <img src="Gameview.gif" width=200>
 
+Build Progress Gif - Upgrade Menu
+<img src="upgradeMenu.gif" width=200>
+
