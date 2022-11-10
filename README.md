@@ -16,7 +16,7 @@ You will be able to progress through the different enemy types.
 Enemies will increase in health as you defeat them.
 After a certain amount of enemies a boss enemy will appear. 
 Your character will be able to upgrade the damage it deals.
-You can aqcuire a helper from the upgrade menu as well.
+You can acquire a helper from the upgrade menu as well.
 Your progress will be tracked in the settings.
 ### App Evaluation
 
